@@ -92,7 +92,7 @@ http://localhost/placement_system
 
 ## 👩‍💻 Developed By
 
-**Taniya M**
+**Shreya C V**
 
 Bachelor of Engineering (Computer Science & Engineering)
 
